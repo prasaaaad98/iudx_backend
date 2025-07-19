@@ -15,4 +15,4 @@ This is the screenshot of the server requests we did while demonstration in the 
 
 ## Demo Video
 
-[Click here to watch the demo video](./screen-capture(1).webm)
+[Click here to watch the demo video](./screen-capture.webm)
