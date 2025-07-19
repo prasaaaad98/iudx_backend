@@ -12,3 +12,7 @@ This is the screenshot of the server requests we did while demonstration in the 
 
 ![Backend Screenshot 3](screenshots/backend3.png)  
 *This screenshot highlights the server's activity during the demonstration, showing multiple requests being handled and
+
+## Demo Video
+
+[Click here to watch the demo video](./screen-capture(1).webm)
